@@ -13,6 +13,7 @@ Validate those emails through DNS and SMTP checks.
 
 Upload the verified dataset to a MongoDB collection.
 
+## Workflow
 1. Web Scraping (BeautifulSoup)
 
 Iterates through 104 pages of participant lists.
